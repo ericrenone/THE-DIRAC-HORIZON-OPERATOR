@@ -9,7 +9,7 @@ Nonlinear Quantum Walk Trapping, and the Full VSCW–Jacobi–CORDIRAC Synthesis
 
 *ERI Labs · Eric Ren · Jersey City, New Jersey · [github.com/ericrenone](https://github.com/ericrenone)*
 
-**Version 3.1 — May 29, 2026**
+**May 29, 2026**
 
 ---
 
